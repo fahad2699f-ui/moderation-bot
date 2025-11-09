@@ -7,7 +7,7 @@ const config: BotConfig = {
     mongoUri: 'mongodb+',           // mongo uri
     defaultPrefix: '!',
     mainGuildId: 'ID',             // main guild id
-    defaultLanguage: 'en',        // default language
+    defaultLanguage: 'ar',        // default language
     dashboard: {
         port: 3000,             // port for dashboard
         secret: 'wickstudio',  // secret key
